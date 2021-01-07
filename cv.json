@@ -13,20 +13,21 @@
       "city": "Perniö",
       "countryCode": "FI"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "taroittech",
-      "url": "http://twitter.com/taroittech"
-    },
-    {"network": "Instagram",
-      "username": "taroittech",
-      "url": "https://www.instagram.com/taroittech"
+    "profiles": [{"network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/taro-turtiainen-37442aba/"
     },
     { "network": "GitHub",
       "username": "taroittech",
       "url": "https://github.com/taroittech"
-    }
-    ]
+    },
+    { "network": "Instagram",
+      "username": "taroittech",
+      "url": "https://www.instagram.com/taroittech"
+    },
+    { "network": "Twitter",
+      "username": "taroittech",
+      "url": "http://twitter.com/taroittech"
+    }]
   },
   "work": [{
     "company": "Company",
