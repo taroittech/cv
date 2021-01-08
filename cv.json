@@ -1,158 +1,179 @@
 {
-  "basics": {
-    "name": "Taro Turtiainen",
-    "label": "System administrator",
-    "picture": "https://avatars0.githubusercontent.com/u/77115800?s=400&u=2b4d1b103e8724402d022b5a03e7adad3980e826&v=4",
-    "email": "taroittech@gmail.com",
-    "phone": "0412842407",
-    "website": "http://www.taroittech.com",
-    "summary": "Forty years of experience in computers, computer networks, programming and technology.",
-    "location": {
-      "address": "Airikintie 1",
-      "postalCode": "25500",
-      "city": "Perniö",
-      "countryCode": "FI"
-    },
-    "profiles": [{"network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/taro-turtiainen-37442aba/"
-    },
-    { "network": "GitHub",
-      "username": "taroittech",
-      "url": "https://github.com/taroittech"
-    },
-    { "network": "Instagram",
-      "username": "taroittech",
-      "url": "https://www.instagram.com/taroittech"
-    },
-    { "network": "Twitter",
-      "username": "taroittech",
-      "url": "http://twitter.com/taroittech"
-    }]
-  },
-  "work": [{
-    "company": "Company",
-    "position": "President",
-    "website": "http://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University of Helsinki",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  },
-  {
-    "institution": "Metrolia University of Applied Sciences ",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  },
-  {
-    "institution": "Taitotalo",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  },
-  {
-    "institution": "Turun oppimiskeskus",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  },
-  {
-    "institution": "Ravintola oppilaistos Paviljonki",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  },
-  {
-    "institution": "Savonlinnan Ammattioppilaistos",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }
-  ],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
-    ]
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
-  }]
+	"basics": {
+		"name": "Taro Turtiainen",
+		"label": "System administrator",
+		"picture": "https://avatars0.githubusercontent.com/u/77115800?s=400&u=2b4d1b103e8724402d022b5a03e7adad3980e826&v=4",
+		"email": "taroittech@gmail.com",
+		"phone": "0412842407",
+		"website": "http://www.taroittech.com",
+		"summary": "Forty years of experience in computers, computer networks, programming and technology.",
+		"location": {
+			"address": "Airikintie 1",
+			"postalCode": "25500",
+			"city": "Perniö",
+			"countryCode": "FI"
+		},
+		"profiles": [{
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/taro-turtiainen-37442aba/"
+			},
+			{
+				"network": "GitHub",
+				"username": "taroittech",
+				"url": "https://github.com/taroittech"
+			},
+			{
+				"network": "YouTube",
+				"username": "taroittech",
+				"url": "https://www.youtube.com/channel/UCv2jTfUiUjvfbVwip6IBflg"
+			},
+			{
+				"network": "Instagram",
+				"username": "taroittech",
+				"url": "https://www.instagram.com/taroittech"
+			},
+			{
+				"network": "Twitter",
+				"username": "taroittech",
+				"url": "http://twitter.com/taroittech"
+			}
+		]
+	},
+	"work": [{
+		"company": "Company",
+		"position": "President",
+		"website": "http://company.com",
+		"startDate": "2013-01-01",
+		"endDate": "2014-01-01",
+		"summary": "Description...",
+		"highlights": [
+			"Started the company"
+		]
+	}],
+	"education": [{
+			"institution": "University of Helsinki, Helsinki",
+			"area": "Software Development",
+			"studyType": "Open Studies",
+			"startDate": "2019",
+			"endDate": "2021",
+			"gpa": "4.0",
+			"courses": [
+				"Basics of programming Java",
+				"Advanced programming course Java"
+			]
+		},
+		{
+			"institution": "Metrolia University of Applied Sciences, Helsinki ",
+			"area": "Software Development",
+			"studyType": "Bachelor",
+			"startDate": "2020",
+			"endDate": "2020",
+			"gpa": "4.0",
+			"courses": [
+				"Ethical hacking",
+				"Cisco Certified Network Associate CCNA"
+			]
+		},
+		{
+			"institution": "Taitotalo, Helsinki",
+			"area": "Further Qualification in Information and Communication Technology",
+			"studyType": "Further Qualification",
+			"startDate": "2020",
+			"endDate": "2020",
+			"gpa": "4.0",
+			"courses": [
+				"Information networks and systems",
+				"Windows server Active Directory",
+				"Cloud Services (Azure, AWS)"
+			]
+		},
+		{
+			"institution": "Turun oppimiskeskus, Turku",
+			"area": "Further Qualification in Computer Science",
+			"studyType": "Further Qualification",
+			"startDate": "2003",
+			"endDate": "2004",
+			"gpa": "4.0",
+			"courses": [
+				"Information networks and systems",
+				"Windows server Active Directory",
+				"Linux administration"
+			]
+		},
+		{
+			"institution": "Restaurant College Paviljonki, Savonlinna",
+			"area": "Customer service and food production",
+			"studyType": "Further Qualification",
+			"startDate": "2001",
+			"endDate": "2003",
+			"gpa": "4.0",
+			"courses": [
+				"Customer service and food production",
+				"Alcohol legislation in Finland"
+			]
+		},
+		{
+			"institution": "Savonlinnan Ammattioppilaistos",
+			"area": "Electronics Technician",
+			"studyType": "Further Qualification",
+			"startDate": "1987",
+			"endDate": "1990",
+			"gpa": "4.0",
+			"courses": [
+				"Electronics",
+				"Electrical Engineering",
+				"Computer Engineering",
+				"Information Technology",
+				"Automation Technology"
+			]
+		}
+	],
+	"awards": [{
+		"title": "Porrassalmi cross",
+		"date": "1994",
+		"awarder": "The Finnis Defence Forces",
+		"summary": "Certificate of honor and cross"
+	}],
+	"volunteer": [{
+		"organization": "Organization",
+		"position": "Volunteer",
+		"website": "http://organization.com/",
+		"startDate": "2012-01-01",
+		"endDate": "2013-01-01",
+		"summary": "Description...",
+		"highlights": [
+			"Awarded 'Volunteer of the Month'"
+		]
+	}],
+	"publications": [{
+		"name": "Publication",
+		"publisher": "Company",
+		"releaseDate": "2014-10-01",
+		"website": "http://publication.com",
+		"summary": "Description..."
+	}],
+	"skills": [{
+		"name": "Web Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript"
+		]
+	}],
+	"languages": [{
+		"language": "Finnish",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+		"name": "Wildlife",
+		"keywords": [
+			"Ferrets",
+			"Unicorns"
+		]
+	}],
+	"references": [{
+		"name": "Jane Doe",
+		"reference": "Reference..."
+	}]
 }
