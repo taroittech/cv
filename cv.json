@@ -64,7 +64,7 @@
 		},
 		{
 			"institution": "Metrolia University of Applied Sciences, Helsinki ",
-			"area": "Software Development",
+			"area": "Computer networks",
 			"studyType": "Bachelor",
 			"startDate": "2020",
 			"endDate": "2020",
@@ -131,7 +131,7 @@
 	"awards": [{
 		"title": "Porrassalmi cross",
 		"date": "1994",
-		"awarder": "The Finnish Defence Forces",
+		"awarder": "The Finnis Defence Forces",
 		"summary": "Certificate of honor and cross"
 	}],
 	"volunteer": [{
